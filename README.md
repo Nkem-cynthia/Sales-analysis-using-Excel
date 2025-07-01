@@ -9,6 +9,9 @@
 
 ### Project Overview
 The goal of this project is to analyze Godswill Enterprise’s sales data and build an interactive Excel dashboard that reveals insights into profit performance across various dimensions. To deliver a clean, user-friendly dashboard that enables management to quickly make data-driven decisions based on customer demographics, product categories, seasons, and time trends.
+![Screenshot 2025-07-01 203536](https://github.com/user-attachments/assets/79607f28-d2ca-4fd6-b756-a35c77daa954)
+
+![Screenshot 2025-07-01 203117](https://github.com/user-attachments/assets/9ce1d68e-5824-4a69-9c05-dba2d188dfc4)
 
 ### Objectives
 - Determine the most profitable season.
@@ -31,12 +34,15 @@ The goal of this project is to analyze Godswill Enterprise’s sales data and bu
    - Handle missing values, correct data types, format dates.
 
    - Create derived columns (e.g., Season, Weekday, Age Group).
+    
+![Screenshot 2025-07-01 200243](https://github.com/user-attachments/assets/9860637e-90c1-4555-9f30-c7c5035316a0)
 
 - Data Analysis
 
    - Use Pivot Tables to summarize data by category, date, and demographics.
 
    - Apply calculations for total profit by segment.
+![Screenshot 2025-07-01 200325](https://github.com/user-attachments/assets/30cb200f-a8a4-4d01-bf25-9744bd983731)
 
 - Dashboard Design
 
@@ -45,7 +51,8 @@ The goal of this project is to analyze Godswill Enterprise’s sales data and bu
    - Add slicers and dropdowns for interactivity.
 
    - Organize visuals using a clean, user-friendly layout.
-  
+  ![Screenshot 2025-07-01 200357](https://github.com/user-attachments/assets/2426aa1f-d6dc-4415-96b4-2d5c58f54fe7)
+
 ### Tools
 - Microsoft Excel (Main Tool)
 
@@ -53,9 +60,7 @@ The goal of this project is to analyze Godswill Enterprise’s sales data and bu
 
    - Slicers
 
-   - Formulas & Functions (e.g., IF, Text, DATE, WEEKDAY)
-
-   - Conditional Formatting
+   - Formulas & Functions (e.g., IF, Text, Substitute)
   
 ### Key Insights to Extract
 - The season that drives the most profit.
@@ -82,3 +87,4 @@ The goal of this project is to analyze Godswill Enterprise’s sales data and bu
 - KPI summary cards (e.g., Total Profit, Top Season)
 
 - Dashboard ready for stakeholder presentation
+[Sales Dataset (My first Dashboard).xlsx](https://github.com/user-attachments/files/21006515/Sales.Dataset.My.first.Dashboard.xlsx)

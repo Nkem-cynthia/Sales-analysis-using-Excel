@@ -33,8 +33,7 @@ The goal of this project is to analyze Godswill Enterprise’s sales data and bu
 
    - Handle missing values, correct data types, format dates.
 
-   - Create derived columns (e.g., Season, Weekday, Age Group).
-    
+   - Create derived columns (e.g., Season, Weekday, Age Group).   
 ![Screenshot 2025-07-01 200243](https://github.com/user-attachments/assets/9860637e-90c1-4555-9f30-c7c5035316a0)
 
 - Data Analysis
@@ -82,9 +81,9 @@ The goal of this project is to analyze Godswill Enterprise’s sales data and bu
 
   - Visuals answering each key question
 
-  - Filters/slicers (Year, Gender, etc.)
-
-- KPI summary cards (e.g., Total Profit, Top Season)
+  - Filters/slicers (Month, Age Group)
 
 - Dashboard ready for stakeholder presentation
-[Sales Dataset (My first Dashboard).xlsx](https://github.com/user-attachments/files/21006515/Sales.Dataset.My.first.Dashboard.xlsx)
+
+[Profit insights analysis and dasboard.xlsx](https://github.com/user-attachments/files/21006635/Profit.insights.analysis.and.dasboard.xlsx)
+
